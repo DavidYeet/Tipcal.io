@@ -1,26 +1,27 @@
 body {
-    background-color: #001f4f;
-    font-family: "Raleway", sans-serif;
+    background-color: #3FA4B0;
+    font-family: 'Open Sans Condensed', sans-serif;
 }
 
 .container {
-    width: 350px;
+    width: 500px;
     height: 500px;
     background-color: #fff;
     position: absolute;
     left: 50%;
     top: 50%;
     transform: translateX(-50%) translateY(-50%);
-    border-radius: 20px;
+    border-radius: 60%;
+    display: inline-block;
 }
 
 h1 {
     position: absolute;
     left: 50%;
     top: -60px;
-    width: 300px;
+    width: 400px;
     transform: translateX(-50%);
-    background-color: #ff851b;
+    background-color: #D48A18;
     color: #fff;
     font-weight: 100;
     border-top-left-radius: 20px;

@@ -36,3 +36,5 @@ function calculateTip() {
     document.querySelector('.tip').style.display = 'block';
     document.querySelector('#total').innerHTML = total;
 }
+
+//not stolen :)//
